@@ -11,12 +11,12 @@ You will like those projects!
 ---
 ```mermaid
 graph TD;
-A-->B;
-A-->C;
-B-->D;
-C-->D;
-D-->A;
-´´´
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+  D-->A;
+```
 
 ---
 
