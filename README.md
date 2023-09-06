@@ -9,6 +9,15 @@ __Advertisement :)__
 You will like those projects!
 
 ---
+'''mermaid
+graph TD;
+A-->B;
+A-->C;
+B-->D;
+C-->D;
+D-->A;
+
+---
 
 # h1 Heading 8-)
 ## h2 Heading
