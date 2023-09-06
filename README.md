@@ -9,7 +9,7 @@ __Advertisement :)__
 You will like those projects!
 
 ---
-´´´mermaid
+```mermaid
 graph TD;
 A-->B;
 A-->C;
